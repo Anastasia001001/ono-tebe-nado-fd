@@ -67,7 +67,7 @@
 
 .cover {
   position: relative;
-  z-index: -2;
+  z-index: 0;
   display: flex;
   flex-direction: column;
   gap: 106px;
@@ -183,7 +183,7 @@
 
 .card {
   position: relative;
-  z-index: -2;
+  z-index: 0;
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
